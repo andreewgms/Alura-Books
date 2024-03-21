@@ -50,3 +50,15 @@
     padding: 1em;
     background-color: var(--branco);
 }
+@media screen and (min-widht: 1024px) {
+    .container__titulo, .container__titulo {
+        font-family: var(--font-secundaria);
+        font-size: 38px;
+    } 
+    .container__titulo{
+        font-weight: 400;
+    }
+    .container__titulo--negrito{
+        font-weight: 700;
+    }
+}
